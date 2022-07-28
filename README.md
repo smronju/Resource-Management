@@ -1,4 +1,4 @@
-##Resource management system
+## Resource management system
 
 ### How to setup
 - Create a database for resource management e.g: resources.
