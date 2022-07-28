@@ -1,7 +1,9 @@
 ## Resource management system
 
 ### How to setup
+- Clone the repository from ```git@github.com:smronju/Resource-Management.git```.
 - Create a database for resource management e.g: resources.
+- Goto the directory of the project.
 - Rename ```.env.example``` to ```.env``` and make necessary changes for database connection.
 - Run ```composer install``` command from terminal to install composer packages.
 - Run ```php artisan key:generate``` command from terminal.
